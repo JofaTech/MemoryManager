@@ -1,0 +1,45 @@
+﻿  CommandLineTest.cpp
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(161,56): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(164,56): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(210,56): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(218,78): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(252,76): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(256,98): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(270,74): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(275,96): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(290,68): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(295,90): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(306,68): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(311,90): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(322,68): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(327,90): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(338,68): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(343,90): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(385,68): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(389,90): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(400,68): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(405,90): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(416,68): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(421,90): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(492,56): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\CommandLineTest.cpp(497,78): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+  MemoryManager.cpp
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\MemoryManager\MemoryManager.cpp(44,33): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\MemoryManager\MemoryManager.cpp(66,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\MemoryManager\MemoryManager.cpp(116,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\MemoryManager\MemoryManager.cpp(184,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\MemoryManager\MemoryManager.cpp(275,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\MemoryManager\MemoryManager.cpp(381,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\utility(256,61): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\MemoryManager\MemoryManager.cpp(47): message : see reference to function template instantiation 'std::pair<int,int>::pair<int,unsigned __int64,0>(std::pair<int,unsigned __int64> &&) noexcept' being compiled
+C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\MemoryManager\MemoryManager.cpp(47): message : see reference to function template instantiation 'std::pair<int,int>::pair<int,unsigned __int64,0>(std::pair<int,unsigned __int64> &&) noexcept' being compiled
+  Generating Code...
+  MemoryManager.vcxproj -> C:\Users\b_luk\OneDrive\Documents\Memory Manager Presentation\MemoryManager\x64\Debug\MemoryManager.exe
